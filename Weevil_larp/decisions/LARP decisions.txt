@@ -1,0 +1,35 @@
+political_decisions = {
+	integrate_finland = {
+		potential = {
+			tag = RUS
+			exists = FIN
+			is_our_vassal = FIN
+			NOT = {has_country_flag = annexed_finland}
+		}
+		allow = {
+			nationalism_n_imperialism = 1
+		}
+		effect = {
+			inherit = FIN
+			any_pop = {
+				limit = {
+					culture = finnish
+				}
+				militancy = 6
+			}
+			any_pop = {
+				limit = {
+					culture = swedish
+				}
+				militancy = 6
+			}
+			set_country_flag = annexed_finland
+		}
+		ai_will_do = {
+			factor = 0
+		}
+
+
+	}
+
+}
