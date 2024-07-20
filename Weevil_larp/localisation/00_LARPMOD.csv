@@ -1,8 +1,10 @@
 ;;;;;;;;;;;;;;;;;;x;;;;;;;;;;;;;;;;;;;;;;x;;;;
 SOU;The South;;;;;;;;;;;;;;;;;;;;;;;x;;;;
 SOU_ADJ;American;;;;;;;;;;;;;;;;;;;;;;;x;;;;
-GBA;The Kingdom of Bavaria;;;;;;;;;;;;;;;;;;;;;;;x;;;;
+GBA;Bavaria;;;;;;;;;;;;;;;;;;;;;;;x;;;;
 GBA_ADJ;Bavarian;;;;;;;;;;;;;;;;;;;;;;;x;;;;
+return_to_germany_title;Return to Germany;x
+return_to_germany_desc;Through outside intervention or the act of rebels, our government has been separated from the rest of Germany. We must immediately rejoin Germany.;;;;;;;;;;;;;;;;;;;;;;;;;x
 integrate_finland_title;Integrate the Grand Duchy of Finland;x
 integrate_finland_desc;Founded in 1809, the Grand Duchy of Finland was an autonomous region created after the annexation of the region in the Finnish War. Over the past few decades, the region has been a thorn in side, serving as an example of reform and cultural independence. We must revoke Finland's autonomy and begin Russification.;;;;;;;;;;;;;;;;;;;;;;;;;x
 custom_national_focus;§GAdditionial National Focuses;;;;;;;;;;;;;;;;;;;;x,,,,,;;;;;;;;;;;;;;;;;;;;,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,

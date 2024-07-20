@@ -205,8 +205,8 @@ country_event = {
 
 	option = {
 		name = "Substate"
-		all_core = { remove_core = BAV }
 		change_tag = GBA
+		all_core = { remove_core = BAV }
 		all_core = { add_core = GER }
 		GER = { country_event = { id=11105 days=1 } }
 		
@@ -236,7 +236,9 @@ country_event = {
 
 	option = {
 		name = "Welcome Aboard!"
+		GBA = { all_core = { remove_core = GER } }
 		create_vassal = GBA
+		GBA = { all_core = { add_core = GER } }
 		ai_chance = {
 			factor = 500
 		}
