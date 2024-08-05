@@ -3,6 +3,8 @@ SOU;The South;;;;;;;;;;;;;;;;;;;;;;;x;;;;
 SOU_ADJ;American;;;;;;;;;;;;;;;;;;;;;;;x;;;;
 GBA;Bavaria;;;;;;;;;;;;;;;;;;;;;;;x;;;;
 GBA_ADJ;Bavarian;;;;;;;;;;;;;;;;;;;;;;;x;;;;
+master_alliances_title;Gain Master Vision Alliances;x
+master_alliances_desc;This utility decision allows puppets to have the same alliances as their masters.;;;;;;;;;;;;;;;;;;;;;;;;;x
 return_to_germany_title;Return to Germany;x
 return_to_germany_desc;Through outside intervention or the act of rebels, our government has been separated from the rest of Germany. We must immediately rejoin Germany.;;;;;;;;;;;;;;;;;;;;;;;;;x
 integrate_finland_title;Integrate the Grand Duchy of Finland;x
@@ -35,3 +37,17 @@ allow_transfer_title;Allow Receiving of Transfers;x
 allow_transfer_desc;Enable to be able to receive event transfers.;;;;;;;;;;;;;;;;;;;;;;;;;x
 deny_transfer_title;Deny Receiving of Transfer;x
 deny_transfer_desc;Enable to stop seeing event transfers.;;;;;;;;;;;;;;;;;;;;;;;;;x
+civ_ETH_title;Civilize Ethiopia;x
+civ_ETH_desc;Decision to automatically civilize Ethiopia.;;;;;;;;;;;;;;;;;;;;;;;;;x
+civ_EGY_title;Civilize Egypt;x
+civ_EGY_desc;Decision to automatically civilize Egypt.;;;;;;;;;;;;;;;;;;;;;;;;;x
+civ_PER_title;Civilize Persia;x
+civ_PER_desc;Decision to automatically civilize Persia.;;;;;;;;;;;;;;;;;;;;;;;;;x
+civ_JAP_title;Civilize Japan;x
+civ_JAP_desc;Decision to automatically civilize Japan.;;;;;;;;;;;;;;;;;;;;;;;;;x
+civ_CHI_title;Civilize China;x
+civ_CHI_desc;Decision to automatically civilize China.;;;;;;;;;;;;;;;;;;;;;;;;;x
+annex_SOU_title;Annex The South;x
+annex_SOU_desc;Civil War skip for the USA.;;;;;;;;;;;;;;;;;;;;;;;;;x
+force_civil_war_title;Force The Civil War;x
+force_civil_war_desc;Starts the American Civil War.;;;;;;;;;;;;;;;;;;;;;;;;;x
