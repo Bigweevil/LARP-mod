@@ -911,6 +911,7 @@ country_event = {
 	
 	option = {
 		name = "EVTOPTA16000"
+		release_vassal = CSA
 		any_pop = {
 			consciousness = -7
 			militancy = -3
