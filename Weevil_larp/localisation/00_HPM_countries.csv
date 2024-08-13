@@ -652,15 +652,15 @@ ABU_fascist_dictatorship;The Emirate;;;;;;;;;;;;x
 ABU_fascist_dictatorship_ADJ;Emirati;;;;;;;;;;;;x
 ABU_proletarian_dictatorship;People's Arabic Republic;;;;;;;;;;;;x
 ABU_proletarian_dictatorship_ADJ;Arabic;;;;;;;;;;;;x
-ACR;Acre;;;;;;;;;;;;;x
-ACR_ADJ;Acrean;;;;;;;;;;;;;x
-ACR_liberal;Partido Liberal;Partido Liberal;Partido Liberal;;;;;;;;;;;;x;;;;;;;;;;;;;;
-ACR_conservative;Partido Conservador;Partido Conservador;Partido Conservador;;;;;;;;;;;;x;;;;;;;;;;;;;;
-ACR_reactionary;Partido Caramuru;Partido Caramuru;Partido Caramuru;;;;;;;;;;;;x;;;;;;;;;;;;;;
-ACR_anarcho_liberal;Partido Radical;Partido Radical;Partido Radical;;;;;;;;;;;;x;;;;;;;;;;;;;;
-ACR_socialist;Partido Socialist;Partido socialiste;Partido Socialist;;;;;;;;;;;;x;;;;;;;;;;;;;;
-ACR_communist;Partido Communist;Partido communiste;Partido Communist;;;;;;;;;;;;x;;;;;;;;;;;;;;
-ACR_fascist;Partido Fascist;Partido fasciste;Partido Fascist;;;;;;;;;;;;x;;;;;;;;;;;;;;
+#ACR;Acre;;;;;;;;;;;;;x
+#ACR_ADJ;Acrean;;;;;;;;;;;;;x
+#ACR_liberal;Partido Liberal;Partido Liberal;Partido Liberal;;;;;;;;;;;;x;;;;;;;;;;;;;;
+#ACR_conservative;Partido Conservador;Partido Conservador;Partido Conservador;;;;;;;;;;;;x;;;;;;;;;;;;;;
+#ACR_reactionary;Partido Caramuru;Partido Caramuru;Partido Caramuru;;;;;;;;;;;;x;;;;;;;;;;;;;;
+#ACR_anarcho_liberal;Partido Radical;Partido Radical;Partido Radical;;;;;;;;;;;;x;;;;;;;;;;;;;;
+#ACR_socialist;Partido Socialist;Partido socialiste;Partido Socialist;;;;;;;;;;;;x;;;;;;;;;;;;;;
+#ACR_communist;Partido Communist;Partido communiste;Partido Communist;;;;;;;;;;;;x;;;;;;;;;;;;;;
+#ACR_fascist;Partido Fascist;Partido fasciste;Partido Fascist;;;;;;;;;;;;x;;;;;;;;;;;;;;
 EZO;Ezo;;;;;;;;;;;;;x
 EZO_ADJ;Ezo;;;;;;;;;;;;;x
 EZO_democracy;The Republic of Ezo;;;;;;;;;;;;x;;;;;;;;;;;;;;

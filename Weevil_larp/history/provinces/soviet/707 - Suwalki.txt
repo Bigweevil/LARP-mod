@@ -1,5 +1,6 @@
-owner = RUS
-controller = RUS
+owner = PRU
+controller = PRU
+add_core = PRU
 add_core = PLC
 #add_core = PLC
 #add_core = CPL

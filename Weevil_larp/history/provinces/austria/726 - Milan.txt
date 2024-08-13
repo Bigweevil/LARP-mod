@@ -1,6 +1,6 @@
-owner = AUS
-controller = AUS
-add_core = LOM
+owner = MIL
+controller = MIL
+add_core = MIL
 #add_core = ITA
 trade_goods = iron
 life_rating = 40

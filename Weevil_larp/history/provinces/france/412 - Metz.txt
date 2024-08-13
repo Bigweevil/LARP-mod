@@ -1,10 +1,9 @@
-owner = FRA
-
-controller = FRA
+owner = ALS
+controller = ALS
+add_core = ALS
 
 add_core = FRA
 
-add_core = GER
 
 trade_goods = iron
 

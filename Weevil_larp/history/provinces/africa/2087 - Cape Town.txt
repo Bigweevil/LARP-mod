@@ -1,6 +1,5 @@
-owner = COM
-controller = COM
-add_core = COM
+owner = NET
+controller = NET
 naval_base = 1
 trade_goods = fruit
 life_rating = 35

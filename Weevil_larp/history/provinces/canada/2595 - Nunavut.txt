@@ -1,9 +1,9 @@
-owner = COM
-controller = COM
+owner = ENG
+controller = ENG
 
-add_core = COM
 trade_goods = grain
 life_rating = 35
+colonial = 2
 
 1836.1.2 = {
 	remove_core = COM

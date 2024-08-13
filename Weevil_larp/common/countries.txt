@@ -15,6 +15,10 @@ ITA		= "countries/Italy.txt"
 AIT		= "countries/Anti-Italy.txt"
 KUK		= "countries/Austria-Hungary.txt"
 
+#Austrian Puppets
+AHU		= "countries/Austrian-Hungary.txt"
+ACR		= "countries/Austrian-Croatia.txt"
+
 
 # Scandinavia
 DEN		= "countries/Denmark.txt"
@@ -35,6 +39,14 @@ SPA		= "countries/Spain.txt"
 WLL		= "countries/Wallonia.txt"
 
 # Germany
+SGM             = "countries/Sigmaringen.txt"
+MAG             = "countries/Magdeburg.txt"
+PLT             = "countries/Palatinate.txt"
+BYR		= "countries/Bayreuth.txt"
+FRC		= "countries/FRC.txt"
+ISE		= "countries/Isenburg.txt"
+THU		= "countries/Thuringia.txt"
+ALS		= "countries/Alsace.txt"
 ANH		= "countries/Anhalt.txt"
 BAD		= "countries/Baden.txt"
 BAV		= "countries/Bavaria.txt"
@@ -74,6 +86,9 @@ SIC		= "countries/Two Sicilies.txt"
 TRE		= "countries/Trieste.txt"
 TUS		= "countries/Tuscany.txt"
 VEN		= "countries/Venice.txt"
+GEN		= "countries/Genoa.txt"
+MIL		= "countries/Milan.txt"
+SAD		= "countries/Sardinia.txt"
 
 # Eastern Europe
 BOH		= "countries/Bohemia-Moravia.txt"

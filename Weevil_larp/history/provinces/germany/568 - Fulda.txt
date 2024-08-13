@@ -1,6 +1,6 @@
-owner = HEK
-controller = HEK
-add_core = HEK
+owner = ISE
+controller = ISE
+add_core = ISE
 add_core = GER
 trade_goods = grain
 life_rating = 38

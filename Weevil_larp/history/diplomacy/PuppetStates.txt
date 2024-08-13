@@ -1,3 +1,30 @@
+# Lombardia
+vassal = {
+	first = AUS
+	second = LOM
+	start_date = 1815.1.1 
+	end_date = 1936.1.1
+}
+#Austrian substates
+substate = {
+	first = AUS
+	second = AHU
+	start_date = 1836.1.1
+	end_date = 1919.1.1
+}
+substate = {
+	first = AUS
+	second = ACR
+	start_date = 1836.1.1
+	end_date = 1919.1.1
+}
+# Sweden-Norway
+vassal = {
+	first = SWE
+	second = NOR
+	start_date = 1815.1.1 
+	end_date = 1908.1.1 #Declared independence
+}
 #American substate
 substate = {
 	first = USA
@@ -48,12 +75,12 @@ vassal = {
 }
 
 # Denmark-Holstein
-vassal = {
-	first = DEN
-	second = HOL
-	start_date = 1773.1.1
-	end_date = 1864.10.30
-}
+#vassal = {
+#	first = DEN
+#	second = HOL
+#	start_date = 1773.1.1
+#	end_date = 1864.10.30
+#}
 
 # NET-LUX
 vassal = {

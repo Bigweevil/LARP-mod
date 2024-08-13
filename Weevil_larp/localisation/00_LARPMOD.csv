@@ -1,15 +1,36 @@
 ;;;;;;;;;;;;;;;;;;x;;;;;;;;;;;;;;;;;;;;;;x;;;;
 SOU;The South;;;;;;;;;;;;;;;;;;;;;;;x;;;;
 SOU_ADJ;American;;;;;;;;;;;;;;;;;;;;;;;x;;;;
+AHU;Hungary;;;;;;;;;;;;;;;;;;;;;;;x;;;;
+AHU_ADJ;Hungarian;;;;;;;;;;;;;;;;;;;;;;;x;;;;
 GBA;Bavaria;;;;;;;;;;;;;;;;;;;;;;;x;;;;
 GBA_ADJ;Bavarian;;;;;;;;;;;;;;;;;;;;;;;x;;;;
+ACR;Croatia;;;;;;;;;;;;;;;;;;;;;;;x;;;;
+ACR_ADJ;Croatian;;;;;;;;;;;;;;;;;;;;;;;x;;;;
+SAD;Sardinia;;;;;;;;;;;;;;;;;;;;;;;x;;;;
+SAD_ADJ;Sardinian;;;;;;;;;;;;;;;;;;;;;;;x;;;;
+GEN;Genoa;;;;;;;;;;;;;;;;;;;;;;;x;;;;
+GEN_ADJ;Genoan;;;;;;;;;;;;;;;;;;;;;;;x;;;;
+MIL;Milan;;;;;;;;;;;;;;;;;;;;;;;x;;;;
+MIL_ADJ;Milanese;;;;;;;;;;;;;;;;;;;;;;;x;;;;
+ISE;Isenburg;;;;;;;;;;;;;;;;;;;;;;;x;;;;
+ISE_ADJ;Isenburgian;;;;;;;;;;;;;;;;;;;;;;;x;;;;
+BYR;Bayreuth;;;;;;;;;;;;;;;;;;;;;;;x;;;;
+BYR_ADJ;Bayreuthian;;;;;;;;;;;;;;;;;;;;;;;x;;;;
+FRC;Franconia;;;;;;;;;;;;;;;;;;;;;;;x;;;;
+FRC_ADJ;Franconian;;;;;;;;;;;;;;;;;;;;;;;x;;;;
+SAR;Piedmont;;;;;;;;;;;;;;;;;;;;;;;x;;;;
+PLT;Palatinate;;;;;;;;;;;;;;;;;;;;;;;x;;;;
+PLT_ADJ;Palatinatean;;;;;;;;;;;;;;;;;;;;;;;x;;;;
+MAG;Magdeburg;;;;;;;;;;;;;;;;;;;;;;;x;;;;
+MAG_ADJ;Magdeburgian;;;;;;;;;;;;;;;;;;;;;;;x;;;;
 master_alliances_title;Gain Master Vision Alliances;x
 master_alliances_desc;This utility decision allows puppets to have the same alliances as their masters.;;;;;;;;;;;;;;;;;;;;;;;;;x
 return_to_germany_title;Return to Germany;x
 return_to_germany_desc;Through outside intervention or the act of rebels, our government has been separated from the rest of Germany. We must immediately rejoin Germany.;;;;;;;;;;;;;;;;;;;;;;;;;x
 integrate_finland_title;Integrate the Grand Duchy of Finland;x
 integrate_finland_desc;Founded in 1809, the Grand Duchy of Finland was an autonomous region created after the annexation of the region in the Finnish War. Over the past few decades, the region has been a thorn in side, serving as an example of reform and cultural independence. We must revoke Finland's autonomy and begin Russification.;;;;;;;;;;;;;;;;;;;;;;;;;x
-custom_national_focus;§GAdditionial National Focuses;;;;;;;;;;;;;;;;;;;;x,,,,,;;;;;;;;;;;;;;;;;;;;,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+custom_national_focus;Â§GAdditionial National Focuses;;;;;;;;;;;;;;;;;;;;x,,,,,;;;;;;;;;;;;;;;;;;;;,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 custom_national_focus_desc;Unlocks additionial national focuses.;;;;;;;;;;;;;;;;;;;;x,,,,,;;;;;;;;;;;;;;;;;;;;,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 make_democratic;Install Democratic Government;;;;;;;;;;;x
 make_democratic_desc;Install a Democratic Government in a target country.;;;;;;;;;;;;x
@@ -49,5 +70,3 @@ civ_CHI_title;Civilize China;x
 civ_CHI_desc;Decision to automatically civilize China.;;;;;;;;;;;;;;;;;;;;;;;;;x
 annex_SOU_title;Annex The South;x
 annex_SOU_desc;Civil War skip for the USA.;;;;;;;;;;;;;;;;;;;;;;;;;x
-force_civil_war_title;Force The Civil War;x
-force_civil_war_desc;Starts the American Civil War.;;;;;;;;;;;;;;;;;;;;;;;;;x
