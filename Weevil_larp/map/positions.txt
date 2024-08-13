@@ -29942,36 +29942,36 @@
 } # Suwalki
 
 707 = {
-    unit = {
-        x = 3166.000000
-        y = 1714.000000
-    }
-
     text_position = {
-        x = 3166.600098
-        y = 1709.800049
+        x = 3166.000000
+        y = 1705.800000
     }
 
     text_scale = 2.300000
-    building_construction = {
-        x = 3161.600098
-        y = 1715.599976
-    }
-
-    military_construction = {
-        x = 3164.300049
-        y = 1707.099976
+    unit = {
+        x = 3168.600000
+        y = 1708.050000
     }
 
     factory = {
-        x = 3163.000000
-        y = 1718.900024
+        x = 3160.150000
+        y = 1704.700000
+    }
+
+    building_construction = {
+        x = 3163.600000
+        y = 1704.450000
+    }
+
+    military_construction = {
+        x = 3165.100000
+        y = 1705.150000
     }
 
     building_position = {
         fort = {
-            x = 3170.399902
-            y = 1707.199951
+            x = 3169.750000
+            y = 1708.550000
         }
 
     }
@@ -86244,30 +86244,30 @@
 } # Port Elizabeth
 
 2096 = {
+    text_position = {
+        x = 3198.898333
+        y = 212.210000
+    }
+
+    text_scale = 3.499999
     unit = {
         x = 3200.000000
         y = 216.000000
     }
 
-    text_position = {
-        x = 3199.300049
-        y = 207.399994
+    factory = {
+        x = 3190.000000
+        y = 224.000000
     }
 
-    text_scale = 3.499999
     building_construction = {
         x = 3184.899902
         y = 217.000000
     }
 
     military_construction = {
-        x = 3199.000000
-        y = 205.000000
-    }
-
-    factory = {
-        x = 3190.000000
-        y = 224.000000
+        x = 3183.060000
+        y = 212.425000
     }
 
     building_position = {
@@ -86277,8 +86277,8 @@
         }
 
         naval_base = {
-            x = 3208.899902
-            y = 202.500000
+            x = 3215.095000
+            y = 203.180000
         }
 
     }
@@ -119495,6 +119495,44 @@
     unit = {
         x = 2998.590000
         y = 1728.295000
+    }
+
+}
+
+3301 = {
+    text_scale = 1.5
+    unit = {
+        x = 3163.800000
+        y = 1716.650000
+    }
+
+    building_position = {
+        fort = {
+            x = 3167.400000
+            y = 1715.650000
+        }
+
+    }
+
+}
+
+3302 = {
+    text_scale = 1.5
+    unit = {
+        x = 3202.950000
+        y = 203.500000
+    }
+
+    building_position = {
+        naval_base = {
+            x = 3204.050000
+            y = 198.450000
+        }
+
+    }
+
+    building_rotation = {
+        naval_base = 4.889098
     }
 
 }
