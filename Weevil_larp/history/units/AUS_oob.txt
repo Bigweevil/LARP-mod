@@ -1,6 +1,6 @@
 #Sphere of Influence
 
-BAD = {	
+WLL = {	
 	value = 125
 	level = 5
 	influence_value = 25
@@ -12,7 +12,7 @@ BAV = {
 	influence_value = 25
 }
 
-WUR = {
+FRC = {
 	value = 125
 	level = 5
 	influence_value = 25
@@ -24,7 +24,31 @@ SAX = {
 	influence_value = 25
 }
 
-KRA = {
+LOM = {
+	value = 125
+	level = 5
+	influence_value = 25
+}
+
+MIL = {
+	value = 125
+	level = 5
+	influence_value = 25
+}
+
+AHU = {
+	value = 125
+	level = 5
+	influence_value = 25
+}
+
+ACR = {
+	value = 125
+	level = 5
+	influence_value = 25
+}
+
+BYR = {
 	value = 125
 	level = 5
 	influence_value = 25
@@ -42,11 +66,6 @@ SAR = {
 	influence_value = 25
 }
 
-PAP = {
-	value = 125
-	level = 3
-	influence_value = 25
-}
 
 SWI = {
 	value = 125

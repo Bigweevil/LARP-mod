@@ -87,4 +87,4 @@ nonstate_consciousness = 2
 
 schools = army_tech_school
 
-oob = "AUS_oob.txt"
+#oob = "AUS_oob.txt"

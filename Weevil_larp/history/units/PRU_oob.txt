@@ -6,6 +6,30 @@ ANH = {
 	military_access = yes
 }
 
+HOL = {
+
+	value = 125
+	level = 5
+	influence_value = 25
+	military_access = yes
+}
+
+MAG = {
+
+	value = 125
+	level = 5
+	influence_value = 25
+	military_access = yes
+}
+
+PLT = {
+
+	value = 125
+	level = 5
+	influence_value = 25
+	military_access = yes
+}
+
 BRA = {
 	value = 125
 	level = 5
