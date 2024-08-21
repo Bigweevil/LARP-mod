@@ -2,8 +2,328 @@
 #Western Cape Region (395100)
 #Ruled by Britain 1836
 #Boer POPs represent post-Great Trek migration 
+3302 = {
+	aristocrats = {
+		culture = british
+		religion = protestant
+		size = 20
+	}
+
+	clergymen = {
+		culture = british
+		religion = protestant
+		size = 70
+	}
+
+	bureaucrats = {
+		culture = british
+		religion = protestant
+		size = 60
+	}
+
+	artisans = {
+		culture = british
+		religion = protestant
+		size = 2500
+	}
+
+	soldiers = {
+		culture = british
+		religion = protestant
+		size = 100
+	}
+
+	farmers = {
+		culture = british
+		religion = protestant
+		size = 4250
+	}
+	clergymen = {
+		culture = british
+		religion = protestant
+		size = 15
+	}
+
+	artisans = {
+		culture = british
+		religion = protestant
+		size = 300
+	}
+
+	soldiers = {
+		culture = british
+		religion = protestant
+		size = 25
+	}
+
+	farmers = {
+		culture = british
+		religion = protestant
+		size = 660
+	}
+	clergymen = {
+		culture = british
+		religion = protestant
+		size = 15
+	}
+
+	artisans = {
+		culture = british
+		religion = protestant
+		size = 300
+	}
+
+	soldiers = {
+		culture = british
+		religion = protestant
+		size = 25
+	}
+
+	farmers = {
+		culture = british
+		religion = protestant
+		size = 660
+	}
+	clergymen = {
+		culture = british
+		religion = protestant
+		size = 50
+	}
+
+	artisans = {
+		culture = british
+		religion = protestant
+		size = 150
+	}
+
+	soldiers = {
+		culture = british
+		religion = protestant
+		size = 25
+	}
+
+	farmers = {
+		culture = british
+		religion = protestant
+		size = 1800
+	}
+	clergymen = {
+		culture = british
+		religion = protestant
+		size = 15
+	}
+
+	artisans = {
+		culture = british
+		religion = protestant
+		size = 200
+	}
+
+	soldiers = {
+		culture = british
+		religion = protestant
+		size = 10
+	}
+
+	farmers = {
+		culture = british
+		religion = protestant
+		size = 775
+	}
+	clergymen = {
+		culture = british
+		religion = protestant
+		size = 25
+	}
+
+	artisans = {
+		culture = british
+		religion = protestant
+		size = 300
+	}
+
+	soldiers = {
+		culture = british
+		religion = protestant
+		size = 25
+	}
+
+	farmers = {
+		culture = british
+		religion = protestant
+		size = 2650
+	}
+	clergymen = {
+		culture = british
+		religion = protestant
+		size = 10
+	}
+
+	artisans = {
+		culture = british
+		religion = protestant
+		size = 150
+	}
+
+	soldiers = {
+		culture = british
+		religion = protestant
+		size = 15
+	}
+
+	farmers = {
+		culture = british
+		religion = protestant
+		size = 8825
+	}
+
+}
 #Cape Town (173000/43250 POPS)
 2087 = {
+	clergymen = {
+		culture = boer
+		religion = protestant
+		size = 10
+	}
+
+	artisans = {
+		culture = boer
+		religion = protestant
+		size = 25
+	}
+
+	soldiers = {
+		culture = boer
+		religion = protestant
+		size = 65
+	}
+
+	farmers = {
+		culture = boer
+		religion = protestant
+		size = 500
+	}
+	bureaucrats = {
+		culture = boer
+		religion = protestant
+		size = 2
+	}
+
+	officers = {
+		culture = boer
+		religion = protestant
+		size = 3
+	}
+
+	clergymen = {
+		culture = boer
+		religion = protestant
+		size = 5
+	}
+
+	artisans = {
+		culture = boer
+		religion = protestant
+		size = 20
+	}
+
+	soldiers = {
+		culture = boer
+		religion = protestant
+		size = 1100
+	}
+
+	farmers = {
+		culture = boer
+		religion = protestant
+		size = 320
+	}
+	clergymen = {
+		culture = boer
+		religion = protestant
+		size = 10
+	}
+
+	artisans = {
+		culture = boer
+		religion = protestant
+		size = 50
+	}
+
+	soldiers = {
+		culture = boer
+		religion = protestant
+		size = 90
+	}
+
+	farmers = {
+		culture = boer
+		religion = protestant
+		size = 600
+	}
+	bureaucrats = {
+		culture = boer
+		religion = protestant
+		size = 2
+	}
+
+	officers = {
+		culture = boer
+		religion = protestant
+		size = 3
+	}
+
+	clergymen = {
+		culture = boer
+		religion = protestant
+		size = 5
+	}
+
+	artisans = {
+		culture = boer
+		religion = protestant
+		size = 50
+	}
+
+	soldiers = {
+		culture = boer
+		religion = protestant
+		size = 90
+	}
+
+	farmers = {
+		culture = boer
+		religion = protestant
+		size = 600
+	}
+	clergymen = {
+		culture = boer
+		religion = protestant
+		size = 5
+	}
+
+	artisans = {
+		culture = boer
+		religion = protestant
+		size = 25
+	}
+
+	soldiers = {
+		culture = boer
+		religion = protestant
+		size = 1100
+	}
+
+	farmers = {
+		culture = boer
+		religion = protestant
+		size = 420
+	}
+	farmers = {
+		culture = boer
+		religion = protestant
+		size = 100
+	}
 	clergymen = {
 		culture = bantu
 		religion = protestant
@@ -50,42 +370,6 @@
 		culture = bantu
 		religion = animist
 		size = 12050
-	}
-
-	aristocrats = {
-		culture = anglo_canadian
-		religion = protestant
-		size = 20
-	}
-
-	clergymen = {
-		culture = anglo_canadian
-		religion = protestant
-		size = 70
-	}
-
-	bureaucrats = {
-		culture = anglo_canadian
-		religion = protestant
-		size = 60
-	}
-
-	artisans = {
-		culture = anglo_canadian
-		religion = protestant
-		size = 2500
-	}
-
-	soldiers = {
-		culture = anglo_canadian
-		religion = protestant
-		size = 100
-	}
-
-	farmers = {
-		culture = anglo_canadian
-		religion = protestant
-		size = 4250
 	}
 
 	clergymen = {
@@ -222,29 +506,6 @@
 		size = 9650
 	}
 
-	clergymen = {
-		culture = anglo_canadian
-		religion = protestant
-		size = 15
-	}
-
-	artisans = {
-		culture = anglo_canadian
-		religion = protestant
-		size = 300
-	}
-
-	soldiers = {
-		culture = anglo_canadian
-		religion = protestant
-		size = 25
-	}
-
-	farmers = {
-		culture = anglo_canadian
-		religion = protestant
-		size = 660
-	}
 }
 #Swettenham (69700/17425 POPS)
 2090 = {
@@ -320,29 +581,7 @@
 		size = 14675
 	}
 
-	clergymen = {
-		culture = anglo_canadian
-		religion = protestant
-		size = 15
-	}
-
-	artisans = {
-		culture = anglo_canadian
-		religion = protestant
-		size = 300
-	}
-
-	soldiers = {
-		culture = anglo_canadian
-		religion = protestant
-		size = 25
-	}
-
-	farmers = {
-		culture = anglo_canadian
-		religion = protestant
-		size = 660
-	}
+	
 }
 #Mossel Bay (34700/8675 POPS)
 2091 = {
@@ -370,29 +609,7 @@
 		size = 1575
 	}
 
-	clergymen = {
-		culture = anglo_canadian
-		religion = protestant
-		size = 50
-	}
-
-	artisans = {
-		culture = anglo_canadian
-		religion = protestant
-		size = 150
-	}
-
-	soldiers = {
-		culture = anglo_canadian
-		religion = protestant
-		size = 25
-	}
-
-	farmers = {
-		culture = anglo_canadian
-		religion = protestant
-		size = 1800
-	}
+	
 
 	clergymen = {
 		culture = bantu
@@ -506,29 +723,6 @@
 		size = 2450
 	}
 
-	clergymen = {
-		culture = anglo_canadian
-		religion = protestant
-		size = 15
-	}
-
-	artisans = {
-		culture = anglo_canadian
-		religion = protestant
-		size = 200
-	}
-
-	soldiers = {
-		culture = anglo_canadian
-		religion = protestant
-		size = 10
-	}
-
-	farmers = {
-		culture = anglo_canadian
-		religion = protestant
-		size = 775
-	}
 
 	clergymen = {
 		culture = khoisan
@@ -761,29 +955,6 @@
 #Ruled by Britain 1836
 #Port Elizabeth (44000/11000 POPS)
 2096 = {
-	clergymen = {
-		culture = anglo_canadian
-		religion = protestant
-		size = 25
-	}
-
-	artisans = {
-		culture = anglo_canadian
-		religion = protestant
-		size = 300
-	}
-
-	soldiers = {
-		culture = anglo_canadian
-		religion = protestant
-		size = 25
-	}
-
-	farmers = {
-		culture = anglo_canadian
-		religion = protestant
-		size = 2650
-	}
 
 	aristocrats = {
 		culture = bantu
@@ -865,29 +1036,6 @@
 }
 #Graaf Reinet (36000/9000 POPS)
 2097 = {
-	clergymen = {
-		culture = anglo_canadian
-		religion = protestant
-		size = 10
-	}
-
-	artisans = {
-		culture = anglo_canadian
-		religion = protestant
-		size = 150
-	}
-
-	soldiers = {
-		culture = anglo_canadian
-		religion = protestant
-		size = 15
-	}
-
-	farmers = {
-		culture = anglo_canadian
-		religion = protestant
-		size = 8825
-	}
 
 	aristocrats = {
 		culture = bantu
@@ -1076,41 +1224,7 @@
 #Boer POPs represent post-Great Trek migration 
 #Bloemfontein (194000/48500 POPS)
 2101 = {
-	bureaucrats = {
-		culture = boer
-		religion = protestant
-		size = 2
-	}
-
-	officers = {
-		culture = boer
-		religion = protestant
-		size = 3
-	}
-
-	clergymen = {
-		culture = boer
-		religion = protestant
-		size = 5
-	}
-
-	artisans = {
-		culture = boer
-		religion = protestant
-		size = 50
-	}
-
-	soldiers = {
-		culture = boer
-		religion = protestant
-		size = 90
-	}
-
-	farmers = {
-		culture = boer
-		religion = protestant
-		size = 600
-	}
+	
 
 	aristocrats = {
 		culture = bantu
@@ -1144,29 +1258,6 @@
 }
 #Winburg (102000/25500 POPS)
 2102 = {
-	clergymen = {
-		culture = boer
-		religion = protestant
-		size = 5
-	}
-
-	artisans = {
-		culture = boer
-		religion = protestant
-		size = 25
-	}
-
-	soldiers = {
-		culture = boer
-		religion = protestant
-		size = 1100
-	}
-
-	farmers = {
-		culture = boer
-		religion = protestant
-		size = 420
-	}
 
 	aristocrats = {
 		culture = bantu
@@ -1230,29 +1321,6 @@
 }
 #Philippolis (85000/21250 POPS)
 2103 = {
-	clergymen = {
-		culture = boer
-		religion = protestant
-		size = 10
-	}
-
-	artisans = {
-		culture = boer
-		religion = protestant
-		size = 50
-	}
-
-	soldiers = {
-		culture = boer
-		religion = protestant
-		size = 90
-	}
-
-	farmers = {
-		culture = boer
-		religion = protestant
-		size = 600
-	}
 
 	aristocrats = {
 		culture = bantu
@@ -1333,41 +1401,6 @@
 #Boer POPs represent post-Great Trek migration 
 #Pretoria (137600/34400 POPS)
 2105 = {
-	bureaucrats = {
-		culture = boer
-		religion = protestant
-		size = 2
-	}
-
-	officers = {
-		culture = boer
-		religion = protestant
-		size = 3
-	}
-
-	clergymen = {
-		culture = boer
-		religion = protestant
-		size = 5
-	}
-
-	artisans = {
-		culture = boer
-		religion = protestant
-		size = 20
-	}
-
-	soldiers = {
-		culture = boer
-		religion = protestant
-		size = 1100
-	}
-
-	farmers = {
-		culture = boer
-		religion = protestant
-		size = 320
-	}
 
 	aristocrats = {
 		culture = bantu
@@ -1401,29 +1434,6 @@
 }
 #Johannesburg (102400/25600 POPS)
 2106 = {
-	clergymen = {
-		culture = boer
-		religion = protestant
-		size = 10
-	}
-
-	artisans = {
-		culture = boer
-		religion = protestant
-		size = 25
-	}
-
-	soldiers = {
-		culture = boer
-		religion = protestant
-		size = 65
-	}
-
-	farmers = {
-		culture = boer
-		religion = protestant
-		size = 500
-	}
 
 	aristocrats = {
 		culture = bantu

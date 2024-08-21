@@ -430,267 +430,226 @@ leader = {
 #Army
 
 army = {
-	name = "I. Korps"
-	location = 553
-
+	name = "I.Preuﬂische Armee"
+	location = 680
+	
 	regiment = {
-		name= "XIII. Linieninfanteriebrigade"
-		type = hussar
-		home = 696
+	name = "I.1 Infanterie"
+	type = infantry
+	home = 695
 	}
-
 	regiment = {
-		name= "XX. Linieninfanteriebrigade"
-		type = artillery
-		home = 546
+	name = "I.2 Infanterie"
+	type = infantry
+	home = 695
 	}
-
 	regiment = {
-		name= "XXV. Linieninfanteriebrigade"
-		type = infantry
-		home = 580
+	name = "I.3 Infanterie"
+	type = infantry
+	home = 695
 	}
-
 	regiment = {
-		name= "XXVI. Linieninfanteriebrigade"
-		type = infantry
-		home = 581
+	name = "I.4 Infanterie"
+	type = infantry
+	home = 696
 	}
-
 	regiment = {
-		name= "II. Linieninfanteriebrigade"
-		type = infantry
-		home = 557
+	name = "I.1 Hussar"
+	type = hussar
+	home = 696
 	}
-
 	regiment = {
-		name= "I. Pionierbrigade"
-		type = infantry
-		home = 577
+	name = "I.1 Artillerie"
+	type = artillery
+	home = 682
 	}
-
 	regiment = {
-		name= "V. Linieninfanteriebrigade"
-		type = artillery
-		home = 582
+	name = "I.2 Artillerie"
+	type = artillery
+	home = 682
 	}
-
 	regiment = {
-		name= "VI. Linieninfanteriebrigade"
-		type = artillery
-		home = 582
+	name = "I.3 Artillerie"
+	type = artillery
+	home = 682
 	}
-
 	regiment = {
-		name= "XXVII. Linieninfanteriebrigade"
-		type = artillery
-		home = 575
+	name = "I.4 Artillerie"
+	type = artillery
+	home = 682
 	}
-
 	regiment = {
-		name= "XXVIII. Linieninfanteriebrigade"
-		type = artillery
-		home = 576
+	name = "I.5 Artillerie"
+	type = artillery
+	home = 701
 	}
 }
 
-army = {
-	name = "II. Korps"
-	location = 682
-	regiment = {
-		name= "VII. Linieninfanteriebrigade"
-		type = hussar
-		home = 682
-	}
-	
-	regiment = {
-		name= "XXIX. Linieninfanteriebrigade"
-		type = infantry
-		home = 578
-	}
-	
-	regiment = {
-		name= "XXIX. Linieninfanteriebrigade2"
-		type = infantry
-		home = 575
-	}
-
-	regiment = {
-		name= "VIII. Linieninfanteriebrigade"
-		type = infantry
-		home = 553
-	}
-
-	regiment = {
-		name= "IX. Linieninfanteriebrigade"
-		type = infantry
-		home = 549
-	}
-
-	regiment = {
-		name= "II. Pionierbrigade"
-		type = artillery
-		home = 684
-	}
-
-	regiment = {
-		name= "XII. Linieninfanteriebrigade"
-		type = artillery
-		home = 685
-	}
-
-	regiment = {
-		name= "II. Artilleriebrigade"
-		type = artillery
-		home = 685
-	}
-	
-	regiment = {
-		name= "XVIII. Linieninfanteriebrigade"
-		type = artillery
-		home = 698
-	}
-
-	regiment = {
-		name= "III. Pionierbrigade"
-		type = artillery
-		home = 549
-	}
-}
-
-army = {
-	name = "III. Korps"
-	location = 546
-	
-	regiment = {
-		name= "XI. Kavalleriebrigade"
-		type = artillery
-		home = 701
-	}
-	
-	regiment = {
-		name= "I. Kavalleriebrigade"
-		type = hussar
-		home = 552
-	}
-
-	regiment = {
-		name= "II. Kavalleriebrigade"
-		type = infantry
-		home = 549
-	}
-
-	regiment = {
-		name= "III. Kavalleriebrigade"
-		type = infantry
-		home = 682
-	}
-
-	regiment = {
-		name= "IV. Kavalleriebrigade"
-		type = infantry
-		home = 681
-	}
-
-	regiment = {
-		name= "V. Kavalleriebrigade"
-		type = infantry
-		home = 550
-	}
-
-	regiment = {
-		name= "VI. Kavalleriebrigade"
-		type = artillery
-		home = 551
-	}
-	
-	regiment = {
-		name= "XVII. Linieninfanteriebrigade"
-		type = infantry
-		home = 695
-	}
-
-	regiment = {
-		name= "VII. Kavalleriebrigade"
-		type = artillery
-		home = 699
-	}
-
-	regiment = {
-		name= "X. Kavalleriebrigade"
-		type = artillery
-		home = 549
-	}
-	
-	regiment = {
-		name= "XVI. Linieninfanteriebrigade"
-		type = artillery
-		home = 682
-	}
-}
-	
 	army = {
-	name = "IIII. Korps"
-	location = 575
+	name = "II.Preuﬂische Armee"
+	location = 549
 	
 	regiment = {
-		name= "XI. Kavalleriebrigade"
-		type = artillery
-		home = 573
+	name = "II.1 Infanterie"
+	type = infantry
+	home = 684
 	}
+	regiment = {
+	name = "II.2 Infanterie"
+	type = infantry
+	home = 684
+	}
+	regiment = {
+	name = "II.3 Infanterie"
+	type = infantry
+	home = 685
+	}
+	regiment = {
+	name = "II.4 Infanterie"
+	type = infantry
+	home = 685
+	}
+	regiment = {
+	name = "II.1 Hussar"
+	type = hussar 
+	home = 699
+	}
+	regiment = {
+	name = "II.1 Artillerie"
+	type = artillery
+	home = 549 
+	}
+	regiment = {
+	name = "II.2 Artillerie"
+	type = artillery
+	home = 549 
+	}
+	regiment = {
+	name = "II.3 Artillerie"
+	type = artillery
+	home = 546
+	}
+	regiment = {
+	name = "II.4 Artillerie"
+	type = artillery
+	home = 546 
+	}
+	regiment = {
+	name = "II.5 Artillerie"
+	type = artillery
+	home = 544 
+	}
+}
+
+army = {
+	name = "III.Preuﬂische Armee"
+	location = 681
 	
 	regiment = {
-		name= "I. Kavalleriebrigade"
-		type = hussar
-		home = 2561
+	name = "III.1 Infanterie"
+	type = infantry
+	home = 681
 	}
-
 	regiment = {
-		name= "II. Kavalleriebrigade"
-		type = infantry
-		home = 578
+	name = "III.2 Infanterie"
+	type = infantry
+	home = 552
 	}
-
 	regiment = {
-		name= "III. Kavalleriebrigade"
-		type = infantry
-		home = 581
+	name = "III.3 Infanterie"
+	type = infantry
+	home = 550
 	}
-
 	regiment = {
-		name= "IV. Kavalleriebrigade"
-		type = infantry
-		home = 580
+	name = "III.4 Infanterie"
+	type = infantry
+	home = 692
 	}
-
 	regiment = {
-		name= "V. Kavalleriebrigade"
-		type = infantry
-		home = 584
+	name = "III.1 Hussar"
+	type = hussar
+	home = 551
 	}
-
 	regiment = {
-		name= "VI. Kavalleriebrigade"
-		type = artillery
-		home = 584
+	name = "III.1 Artillerie"
+	type = artillery
+	home = 548
 	}
-
 	regiment = {
-		name= "VII. Kavalleriebrigade"
-		type = artillery
-		home = 554
+	name = "III.2 Artillerie"
+	type = artillery
+	home = 548
 	}
-
 	regiment = {
-		name= "X. Kavalleriebrigade"
-		type = artillery
-		home = 548
+	name = "III.3 Artillerie"
+	type = artillery
+	home = 545
 	}
+	regiment = {
+	name = "III.4 Artillerie"
+	type = artillery
+	home = 582
+	}
+	regiment = {
+	name = "III.5 Artillerie"
+	type = artillery
+	home = 582
+	}
+}
+
+army = {
+	name = "IV.Preuﬂische Armee"
+	location = 578
 	
 	regiment = {
-		name= "XVI. Linieninfanteriebrigade"
-		type = artillery
-		home = 548
+	name = "IV.1 Infanterie"
+	type = infantry
+	home = 578
+	}
+	regiment = {
+	name = "IV.2 Infanterie"
+	type = infantry
+	home = 578
+	}
+	regiment = {
+	name = "IV.3 Infanterie"
+	type = infantry
+	home = 580
+	}
+	regiment = {
+	name = "IV.4 Infanterie"
+	type = infantry
+	home = 580
+	}
+	regiment = {
+	name = "IV.1 Hussar"
+	type = hussar
+	home = 2561
+	}
+	regiment = {
+	name = "IV.1 Artillerie"
+	type = artillery
+	home = 575
+	}
+	regiment = {
+	name = "IV.2 Artillerie"
+	type = artillery
+	home = 575
+	}
+	regiment = {
+	name = "IV.3 Artillerie"
+	type = artillery
+	home = 576
+	}
+	regiment = {
+	name = "IV.4 Artillerie"
+	type = artillery
+	home = 581
+	}
+	regiment = {
+	name = "IV.5 Artillerie"
+	type = artillery
+	home = 581
 	}
 }
 

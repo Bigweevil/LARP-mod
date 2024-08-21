@@ -9,6 +9,7 @@ literacy = 0.28
 civilized = yes
 
 
+oob = "WLL_oob.txt"
 # Political reforms
 slavery = no_slavery
 upper_house_composition = appointed

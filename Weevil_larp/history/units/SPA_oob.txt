@@ -253,7 +253,7 @@ army = {
 	regiment = {
 		name= "1. Brigada de Artillería"
 		type = infantry
-		home = 476
+		home = 487
 	}
 	
 	regiment = {
@@ -309,11 +309,6 @@ army = {
 	name = "Ejército de Cuba"
 	location = 511
 	
-	regiment = {
-		name = "1. Brigada Colonial"
-		type = hussar
-		home = 474
-	}
 	
 	regiment = {
 		name = "2. Brigada Colonial"
@@ -363,11 +358,6 @@ army = {
 		home = 509
 	}
 	
-	regiment = {
-		name = "3. Brigada"
-		type = artillery
-		home = 474
-	}
 }
 
 navy = {

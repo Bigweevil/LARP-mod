@@ -341,7 +341,7 @@ army = {
 
 army = {
 	name = "1. Line Corps"
-	location = 936
+	location = 1039
 	regiment = {
 		name= "1.1-ya Gvardeiskaya Kavaleriiskaya Diviziya"
 		type = hussar
@@ -472,7 +472,7 @@ army = {
 
 army = {
 	name = "3. Line Corps"
-	location = 713
+	location = 962
 	regiment = {
 		name= "1.1-ya Pekhotnaya Diviziya"
 		type = hussar
@@ -506,7 +506,7 @@ army = {
 	regiment = {
 		name= "3.2-ya Pekhotnaya Diviziya"
 		type = artillery
-		home = 706
+		home = 1012
 	}
 
 	regiment = {
@@ -518,13 +518,13 @@ army = {
 	regiment = {
 		name= "2.3-ya Pekhotnaya Diviziya"
 		type = artillery
-		home = 940
+		home = 1029
 	}
 
 	regiment = {
 		name= "3.3-ya Pekhotnaya Diviziya"
 		type = artillery
-		home = 712
+		home = 1035
 	}
 	
 	regiment = {
@@ -537,7 +537,7 @@ army = {
 
 army = {
 	name = "4. Line Corps"
-	location = 706
+	location = 1015
 	regiment = {
 		name= "1.2-ya Kavalerijskaya Diviziya"
 		type = hussar
@@ -568,11 +568,6 @@ army = {
 		home = 361
 	}
 
-	regiment = {
-		name= "3.3-ya Kavalerijskaya Diviziya"
-		type = artillery
-		home = 964
-	}
 
 	regiment = {
 		name= "1.4-ya Kavalerijskaya Diviziya"
@@ -583,13 +578,13 @@ army = {
 	regiment = {
 		name= "2.4-ya Kavalerijskaya Diviziya"
 		type = artillery
-		home = 956
+		home = 1011
 	}
 
 	regiment = {
 		name= "3.4-ya Kavalerijskaya Diviziya"
 		type = artillery
-		home = 345
+		home = 1009
 	}
 
 	regiment = {
@@ -611,13 +606,13 @@ army = {
 	regiment = {
 		name= "1.4-ya Pekhotnaya Diviziya"
 		type = hussar
-		home = 937
+		home = 998
 	}
 
 	regiment = {
 		name= "2.4-ya Pekhotnaya Diviziya"
 		type = infantry
-		home = 957
+		home = 960
 	}
 
 	regiment = {

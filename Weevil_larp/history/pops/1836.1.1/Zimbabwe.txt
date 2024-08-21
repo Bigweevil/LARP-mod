@@ -495,9 +495,4 @@
 		religion = animist
 		size = 14575
 	}
-	farmers = {
-		culture = boer
-		religion = protestant
-		size = 100
-	}
 }

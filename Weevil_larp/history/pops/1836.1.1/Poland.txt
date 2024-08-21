@@ -2618,83 +2618,163 @@
 	}
 }
 #Suwalki (196000/49000 POPS)
+3301 = {
+	aristocrats = {
+		culture = polish
+		religion = catholic
+		size = 575
+	}
+
+	clergymen = {
+		culture = polish
+		religion = catholic
+		size = 188
+	}
+
+	artisans = {
+		culture = polish
+		religion = catholic
+		size = 950
+	}
+
+	soldiers = {
+		culture = polish
+		religion = catholic
+		size = 188
+	}
+
+	farmers = {
+		culture = polish
+		religion = catholic
+		size = 17625
+	}
+
+	clergymen = {
+		culture = lithuanian
+		religion = catholic
+		size = 38
+	}
+
+	artisans = {
+		culture = lithuanian
+		religion = catholic
+		size = 125
+	}
+
+	soldiers = {
+		culture = lithuanian
+		religion = catholic
+		size = 25
+	}
+
+	farmers = {
+		culture = lithuanian
+		religion = catholic
+		size = 2313
+	}
+
+	clergymen = {
+		culture = ashkenazi
+		religion = jewish
+		size = 25
+	}
+
+	artisans = {
+		culture = ashkenazi
+		religion = jewish
+		size = 1000
+	}
+
+	soldiers = {
+		culture = ashkenazi
+		religion = jewish
+		size = 25
+	}
+
+	farmers = {
+		culture = ashkenazi
+		religion = jewish
+		size = 1450
+	}
+}
+#Augustow
 707 = {
 	aristocrats = {
 		culture = polish
 		religion = catholic
-		size = 1150
+		size = 575
 	}
 
 	clergymen = {
 		culture = polish
 		religion = catholic
-		size = 375
+		size = 188
 	}
 
 	artisans = {
 		culture = polish
 		religion = catholic
-		size = 1900
+		size = 950
 	}
 
 	soldiers = {
 		culture = polish
 		religion = catholic
-		size = 375
+		size = 188
 	}
 
 	farmers = {
 		culture = polish
 		religion = catholic
-		size = 35250
+		size = 17625
 	}
 
 	clergymen = {
 		culture = lithuanian
 		religion = catholic
-		size = 75
+		size = 38
 	}
 
 	artisans = {
 		culture = lithuanian
 		religion = catholic
-		size = 250
+		size = 125
 	}
 
 	soldiers = {
 		culture = lithuanian
 		religion = catholic
-		size = 50
+		size = 25
 	}
 
 	farmers = {
 		culture = lithuanian
 		religion = catholic
-		size = 4625
+		size = 2313
 	}
 
 	clergymen = {
 		culture = ashkenazi
 		religion = jewish
-		size = 50
+		size = 25
 	}
 
 	artisans = {
 		culture = ashkenazi
 		religion = jewish
-		size = 2000
+		size = 1000
 	}
 
 	soldiers = {
 		culture = ashkenazi
 		religion = jewish
-		size = 50
+		size = 25
 	}
 
 	farmers = {
 		culture = ashkenazi
 		religion = jewish
-		size = 2900
+		size = 1450
 	}
 }
 #Plock (396000/99000 POPS)
