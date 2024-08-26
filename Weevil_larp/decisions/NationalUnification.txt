@@ -163,19 +163,6 @@ political_decisions = {
 					}
 				}
 			}
-			FRA_412 = {
-				OR = {
-					owned_by = THIS
-					owner = {
-						OR = {
-							in_sphere = THIS
-							overlord = {
-								tag = THIS
-							}
-						}
-					}
-				}
-			}
 			BAV_599 = {
 				OR = {
 					owned_by = THIS
@@ -217,6 +204,8 @@ political_decisions = {
 					}
 					NOT = {
 						tag = THIS
+						tag = AHU
+						tag = ACR
 					}
 				}
 				annex_to = THIS
@@ -224,9 +213,6 @@ political_decisions = {
 			BAV = { all_core = { remove_core = BAV add_core = SGF } }
 			WUR = { all_core = { remove_core = WUR add_core = SGF } }
 			BAD = { all_core = { remove_core = BAD add_core = SGF } }
-			FRA_412 = {
-				add_core = SGF
-			}
 			release_vassal = SGF
 			diplomatic_influence = {
 				who = SGF
