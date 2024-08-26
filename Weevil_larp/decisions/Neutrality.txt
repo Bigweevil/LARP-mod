@@ -5,6 +5,7 @@ political_decisions = {
 			tag = SWI
 			NOT = { involved_in_crisis = yes }
 			war = no
+			year = 1955
 			NOT = {
 				has_country_modifier = neutrality
 				has_country_flag = abandoned_neutrality

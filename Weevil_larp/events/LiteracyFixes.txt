@@ -195,5 +195,6 @@ country_event = {
 		name = "Have Fun!"
 		add_country_modifier = { name = negative_mobilization duration = 99999 }
 		add_accepted_culture = croat
+		add_accepted_culture = slovene
 	}
 }

@@ -566,7 +566,7 @@
 		size = 2475
 	}
 	farmers = {
-		culture = italian
+		culture = north_italian
 		religion = catholic
 		size = 4000
 	}
