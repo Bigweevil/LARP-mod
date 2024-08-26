@@ -272,47 +272,40 @@ political_decisions = {
 		
 		effect = {
 			prestige = 15
-			FRA_412 = {
-				add_core = NGF
+			add_accepted_culture = wallonian
+			any_country = {
+				limit = {
+					OR = {
+						primary_culture = north_german
+						tag = SCH 
+					}
+					in_sphere = THIS
+					NOT = {
+						tag = THIS
+					}
+				}
+				annex_to = THIS
 			}
+			any_owned = {
+				limit = {
+					is_core = GER
+				}
+				add_core = NGF
+			}			
 			change_tag = NGF
-			PRU = { all_core = { remove_core = PRU add_core = NGF } }
-			LIP = { all_core = { remove_core = LIP add_core = NGF } }
-			ANH = { all_core = { remove_core = ANH add_core = NGF } }
-			HES = { all_core = { remove_core = HES add_core = NGF } }
-			MEC = { all_core = { remove_core = MEC add_core = NGF } }
-			LUB = { all_core = { remove_core = LUB add_core = NGF } }
-			HOL = { all_core = { remove_core = HOL add_core = NGF } }
-			HAM = { all_core = { remove_core = HAM add_core = NGF } }
-			HAN = { all_core = { remove_core = HAN add_core = NGF } }
-			BRA = { all_core = { remove_core = BRA add_core = NGF } }
-			BRE = { all_core = { remove_core = BRE add_core = NGF } }
-			OLD = { all_core = { remove_core = OLD add_core = NGF } }
-			NAS = { all_core = { remove_core = NAS add_core = NGF } }
-			FRM = { all_core = { remove_core = FRM add_core = NGF } }
-			HEK = { all_core = { remove_core = HEK add_core = NGF } }
-			COB = { all_core = { remove_core = COB add_core = NGF } }
-			MEI = { all_core = { remove_core = MEI add_core = NGF } }
-			WEI = { all_core = { remove_core = WEI add_core = NGF } }
-			SAX = { all_core = { remove_core = SAX add_core = NGF } }
-			inherit = LIP
-			inherit = ANH
-			inherit = HES
-			inherit = MEC
-			inherit = LUB
-			inherit = HOL
-			inherit = HAM
-			inherit = HAN
-			inherit = BRA
-			inherit = BRE
-			inherit = OLD
-			inherit = NAS
-			inherit = FRM
-			inherit = HEK
-			inherit = COB
-			inherit = MEI
-			inherit = WEI
-			inherit = SAX
+			PRU = { all_core = { remove_core = PRU } }
+			HOL = { all_core = { remove_core = HOL } }
+			HAN = { all_core = { remove_core = HAN } }
+			OLD = { all_core = { remove_core = OLD } }
+			PLT = { all_core = { remove_core = PLT } }
+			LIP = { all_core = { remove_core = LIP } }
+			BRA = { all_core = { remove_core = BRA } }
+			HEK = { all_core = { remove_core = HEK } }
+			MAG = { all_core = { remove_core = MAG } }
+			FRM = { all_core = { remove_core = FRM } }
+			COB = { all_core = { remove_core = COB } }
+			ISE = { all_core = { remove_core = ISE } }
+			SAX = { all_core = { remove_core = SAX } }
 		}
 		
 		ai_will_do = {
@@ -393,45 +386,18 @@ political_decisions = {
 			is_greater_power = yes
 			prestige = 45
 			war = no
-			FRA_412 = {
-				OR = {
-					owned_by = THIS
-					owner = {
-						OR = {
+			GER = {
+				all_core = {
+					OR = {
+						owned_by = THIS
+						owner = {
 							in_sphere = THIS
-							overlord = {
-								tag = THIS
-							}
 						}
 					}
 				}
 			}
-			BAV_599 = {
-				OR = {
-					owned_by = THIS
-					owner = {
-						OR = {
-							in_sphere = THIS
-							overlord = {
-								tag = THIS
-							}
-						}
-					}
-				}
-			}
-			BAD_586 = {
-				OR = {
-					owned_by = THIS
-					owner = {
-						OR = {
-							in_sphere = THIS
-							overlord = {
-								tag = THIS
-							}
-						}
-					}
-				}
-			}
+			
+			
 		}
 		
 		effect = {
@@ -439,6 +405,7 @@ political_decisions = {
 			change_tag = GER
 			add_accepted_culture = north_german
 			add_accepted_culture = south_german
+			add_accepted_culture = wallonian
 			any_country = {
 				limit = {
 					NOT = {
@@ -480,6 +447,10 @@ political_decisions = {
 			SAX = { all_core = { remove_core = SAX add_core = GER } }
 			WUR = { all_core = { remove_core = WUR add_core = GER } }
 			BAD = { all_core = { remove_core = BAD add_core = GER } }
+			FRC = { all_core = { remove_core = FRC add_core = GER } }
+			BYR = { all_core = { remove_core = BYR add_core = GER } }
+			SGM = { all_core = { remove_core = SGM add_core = GER } }
+
 		}
 		ai_will_do = {
 			factor = 1
@@ -1134,19 +1105,25 @@ political_decisions = {
 		news_desc_medium = "form_italy_NEWS_MEDIUM"
 		news_desc_short = "form_italy_NEWS_SHORT"
 		potential = {
-			OR = {
-				tag = SAR
-				tag = SIC
-			}
+			is_culture_group = italian
+			
 			NOT = {
 				exists = ITA
 			}
 		}
 		
 		allow = {
-			year = 1860
 			war = no
-			owns = 749  #Rome
+			ITA = {
+				all_core = {
+					OR = {
+						owned_by = THIS
+						owner = {
+							in_sphere = THIS
+						}
+					}
+				}
+			}
 		}
 		
 		effect = {
@@ -1155,36 +1132,22 @@ political_decisions = {
 			capital = 749
 			add_accepted_culture = north_italian
 			add_accepted_culture = south_italian
-			SAR = { all_core = { remove_core = SAR add_core = ITA } }
-			#LOM = { all_core = { remove_core = LOM add_core = ITA } }
-			#VEN = { all_core = { remove_core = VEN add_core = ITA } }
-			PAR = { all_core = { remove_core = PAR add_core = ITA } }
-			MOD = { all_core = { remove_core = MOD add_core = ITA } }
-			PAP = { all_core = { remove_core = PAP add_core = ITA } }
-			LUC = { all_core = { remove_core = LUC add_core = ITA } }
-			TUS = { all_core = { remove_core = TUS add_core = ITA } }
-			SIC = { all_core = { remove_core = SIC add_core = ITA } }
-			#TRE = { all_core = { remove_core = TRE add_core = ITA } }
-			THIS = {
+			any_country = {
 				limit = {
-					tag = SAR
+					is_culture_group = italian
+					in_sphere = THIS
 				}
-				inherit = SIC
+				annex_to = THIS
 			}
-			THIS = {
-				limit = {
-					tag = SIC
-				}
-				inherit = SAR
-			}
-			#inherit = LOM
-			#inherit = VEN
-			inherit = PAR
-			inherit = MOD
-			inherit = PAP
-			inherit = LUC
-			inherit = TUS
-			#inherit = TRE
+			SAR = { all_core = { remove_core = SAR } }
+			SAD = { all_core = { remove_core = SAD } }
+			MIL = { all_core = { remove_core = MIL } }
+			LOM = { all_core = { remove_core = LOM } }
+			PAP = { all_core = { remove_core = PAP } }
+			LUC = { all_core = { remove_core = LUC } }
+			TUS = { all_core = { remove_core = TUS } }
+			SIC = { all_core = { remove_core = SIC } }
+			PAR = { all_core = { remove_core = PAR } }
 		}
 		ai_will_do = {
 			factor = 1

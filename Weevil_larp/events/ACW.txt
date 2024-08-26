@@ -28,7 +28,7 @@ country_event = {
 		add_country_modifier = { name = the_slavery_debate duration = 10950 }
 		add_country_modifier = { name = two_USAs duration = 10950 }
 		SOU = { add_country_modifier = { name = two_USAs duration = 10950 } }
-		SOU = { add_country_modifier = { name = southern_nation duration = 10950 } }
+		SOU = { add_country_flag = southern_nation }
 	}
 }
 

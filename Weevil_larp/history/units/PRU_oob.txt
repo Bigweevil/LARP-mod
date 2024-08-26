@@ -6,6 +6,14 @@ ANH = {
 	military_access = yes
 }
 
+SGM = {
+
+	value = 125
+	level = 5
+	influence_value = 25
+	military_access = yes
+}
+
 HOL = {
 
 	value = 125

@@ -1,4 +1,4 @@
-capital = 619
+capital = 771
 primary_culture = south_german
 culture = czech
 religion = catholic

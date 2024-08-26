@@ -682,6 +682,49 @@ emigration_chance =
 
 ###Positive Factors for Emigration (bad)###
 
+#War Exhaustion Emigration (CE) 10/20/30/40/50/60/70/80/90/100 War Exhaustion, then +0.125% chance to emigrate for each threshold.	(+1.25% total)
+
+		modifier = {
+			factor = 0.125
+			war_exhaustion = 10
+		}
+		modifier = {
+			factor = 0.125
+			war_exhaustion = 20
+		}
+		modifier = {
+			factor = 0.125
+			war_exhaustion = 30
+		}
+		modifier = {
+			factor = 0.125
+			war_exhaustion = 40
+		}
+		modifier = {
+			factor = 0.125
+			war_exhaustion = 50
+		}
+		modifier = {
+			factor = 0.125
+			war_exhaustion = 60
+		}
+		modifier = {
+			factor = 0.125
+			war_exhaustion = 70
+		}
+		modifier = {
+			factor = 0.125
+			war_exhaustion = 80
+		}
+		modifier = {
+			factor = 0.125
+			war_exhaustion = 90
+		}
+		modifier = {
+			factor = 0.125
+			war_exhaustion = 100
+		}
+		
 #If pop group is not primary or accepted culture and has at least 1/2/3/4/5/6/7/8/9/9.9 militancy, then +0.1% chance to emigrate for each threshold.	(+1% total)
 	group = {
 		modifier = {

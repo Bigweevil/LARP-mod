@@ -1,7 +1,7 @@
 owner = SAD
 controller = SAD
 add_core = SAD
-#add_core = ITA
+add_core = ITA
 
 trade_goods = sulphur
 naval_base = 1

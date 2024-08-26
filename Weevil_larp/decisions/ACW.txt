@@ -8,8 +8,23 @@ political_decisions = {
 			NOT = {has_global_flag = american_civil_war_has_happened}
 		}
 		allow = {
-			USA={ has_country_flag = johnbrowns_raid }
-			year = 1860
+			OR = {
+				year = 1865
+
+				AND = {
+					year = 1855
+					OR = {
+						NOT = { owns = 133} #Texas
+						NOT = { owns = 200} #Florida
+					}
+				}
+
+				AND = {
+					year = 1860
+					NOT = { owns = 2212 }
+				}
+
+			}
 		}
 		effect = {
 			change_tag = CSA

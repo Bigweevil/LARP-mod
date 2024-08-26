@@ -481,13 +481,13 @@ SPA_503 = { 503 504 505 506 507 508 }
 
 SPA_487 = { 487 488 489 490 491 }
 
-BEL_394 = { 394 392 393 395 396 397 398 } # West Wallonie
+BEL_394 = { 394 392 395 396 397 398 } # West Wallonie
 
 #BEL_395 = { 395 396 397 398 } # East Wallonie
 
 #BEL_387 = { 388 389 } #Vlaandern
 
-BEL_390 = { 387 390 391 388 389 } #Brabant
+BEL_390 = { 387 390 391 388 389 393 } #Brabant
 
 #BEL_387 = { 387 388 389 390 391 } #Vlaandern
 
@@ -503,7 +503,7 @@ DEN_372 = { 372 373 374 } #Sjaelland
 
 #SWE_309 = { 309 311 310 312 } #Vestlandet
 
-SWE_308 = { 305 308 306 307 3246 } #Nordnorge
+SWE_308 = { 305 308 306 3246 } #Nordnorge
 
 SWE_313 = { 313 309 316 312 310 311 314 315 } #Sør-Norge
 
@@ -515,7 +515,7 @@ SWE_329 = { 329 330 332 331 333 335 334 } #Gotaland
 
 SWE_322 = { 322 324 323 326 325 327 328 318 317 319 320 321 } #Svealand
 
-SWI_603 = { 603 606 611 2568 3252 } #East Switzerland
+SWI_603 = { 603 606 611 2568 3252 614} #East Switzerland
 
 SWI_605 = { 605 604 607 608 609} #West Switzerland
 
@@ -921,7 +921,7 @@ CHI_2562 = { 2562 1485} #Taiwan
 
 RUS_340 = { 343 340 344 345 346 347 348 339 } #Southern Finland
 
-RUS_336 = { 336 337 338 341 342 982 } #Northern Finland
+RUS_336 = { 336 337 338 341 342 982 307 } #Northern Finland
 
 RUS_349 = { 349 350 351 352 353 } #Estonia
 
@@ -1065,7 +1065,7 @@ AUS_641 = { 641 645 646 648 649 650 } #Central Hungary
 
 #AUS_613 = { 616 618 617 } #Karnten-Steiermark
 
-#AUS_612 = { 612 613 614 615 } #Tirol
+#AUS_612 = { 612 613 615 } #Tirol
 
 AUS_619 = { 619 620 621 622 624 612 613 614 615 616 618 617 } #Osterreich
 
@@ -1082,7 +1082,7 @@ PRU_581 = { 581 580 582 583 584 585 578 579 2561 } #Westfalen
 
 PRU_553 = { 553 554 555 556 557 536 537 } #Magdeburg
 
-PRU_690 = { 693 694 696 695 697 698 } #Westpreussen
+PRU_690 = { 693 694 696 695 697 698 3301} #Westpreussen
 
 #PRU_695 = { 695 697 698 } #Ostpreussen
 
@@ -1122,7 +1122,7 @@ CHI_1086 = { 1086 1087 1088 1089 } #Sakhalin-Kuriles
 
 RUS_707 = { 719 936 937 938 939 940 } #Brest
 
-RUS_706 = { 707 708 709 711 715 3301 } #Mazowieckie
+RUS_706 = { 707 708 709 711 715 } #Mazowieckie
 
 RUS_955 = { 955 956 957 } #Rovne
 
