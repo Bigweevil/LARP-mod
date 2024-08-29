@@ -422,9 +422,9 @@ political_decisions = {
 			any_pop = {
 				consciousness = 2
 			}
-			TEX_132 = {
-				add_core = USA
-			}
+			#TEX_132 = {
+			#	add_core = USA
+			#}
 			MEX_103 = {
 				add_core = USA
 			}

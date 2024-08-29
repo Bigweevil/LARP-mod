@@ -113,7 +113,7 @@ uncivilized_isolationism = {
 }
 
 china_rp_nerf = {
-	#research_points_on_conquer = -1000.0
+	research_points_on_conquer = -1000.0
 	icon = 10
 }
 
@@ -459,7 +459,6 @@ southern_nation = {
 the_bonnie_blue_flag = {
 	leadership = 2
 	mobilisation_economy_impact = -0.25
-	mobilisation_size = 0.15
 	icon = 15
 }
 

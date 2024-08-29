@@ -3,8 +3,8 @@ SOU;The South;;;;;;;;;;;;;;;;;;;;;;;x;;;;
 SOU_ADJ;American;;;;;;;;;;;;;;;;;;;;;;;x;;;;
 AHU;Hungary;;;;;;;;;;;;;;;;;;;;;;;x;;;;
 AHU_ADJ;Hungarian;;;;;;;;;;;;;;;;;;;;;;;x;;;;
-GBA;Bavaria;;;;;;;;;;;;;;;;;;;;;;;x;;;;
-GBA_ADJ;Bavarian;;;;;;;;;;;;;;;;;;;;;;;x;;;;
+GBA;Swabia;;;;;;;;;;;;;;;;;;;;;;;x;;;;
+GBA_ADJ;Swabian;;;;;;;;;;;;;;;;;;;;;;;x;;;;
 ACR;Croatia;;;;;;;;;;;;;;;;;;;;;;;x;;;;
 ACR_ADJ;Croatian;;;;;;;;;;;;;;;;;;;;;;;x;;;;
 SAD;Sardinia;;;;;;;;;;;;;;;;;;;;;;;x;;;;
@@ -26,6 +26,8 @@ MAG;Magdeburg;;;;;;;;;;;;;;;;;;;;;;;x;;;;
 MAG_ADJ;Magdeburgian;;;;;;;;;;;;;;;;;;;;;;;x;;;;
 PROV3302;Port Elizabeth;x
 PROV3301;Suwalki;x
+AUS_588;Konstanz;x
+RUS_952;Ruthenia;x
 EVTOPTA368988;Gift her Heligoland!;Gift her Heligoland!;Gift her Heligoland!;;Gift her Heligoland!;;;;;;;;;x;
 master_alliances_title;Gain Master Vision Alliances;x
 master_alliances_desc;This utility decision allows puppets to have the same alliances as their masters.;;;;;;;;;;;;;;;;;;;;;;;;;x

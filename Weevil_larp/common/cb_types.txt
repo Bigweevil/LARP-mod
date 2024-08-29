@@ -211,8 +211,6 @@ conquest = {
 	can_use = {
 		NOT = { tag = LCT }
 		NOT = { tag = GHO }
-		NOT = { tag = CHI }
-		this = { NOT = { tag = CHI } }
 		total_pops = 400000
 		this = { NOT = { badboy = 1 } }
 		NOT = { is_our_vassal = THIS }
@@ -947,8 +945,6 @@ acquire_state_tiny = {
 	can_use = {
 		NOT = { tag = LCT }
 		NOT = { tag = GHO }
-		NOT = { tag = CHI }
-		this = { NOT = { tag = CHI } }
 		this = { NOT = { badboy = 1 } }
 		NOT = { 
 			OR = { 
@@ -1050,8 +1046,6 @@ acquire_state_small = {
 	can_use = {
 		NOT = { tag = LCT }
 		NOT = { tag = GHO }
-		NOT = { tag = CHI }
-		this = { NOT = { tag = CHI } }
 		this = { NOT = { badboy = 1 } }
 		NOT = { 
 			OR = { 
@@ -1258,8 +1252,6 @@ acquire_state_medium = {
 	can_use = {
 		NOT = { tag = LCT }
 		NOT = { tag = GHO }
-		NOT = { tag = CHI }
-		this = { NOT = { tag = CHI } }
 		this = { NOT = { badboy = 1 } }
 		NOT = { 
 			OR = { 
@@ -1362,8 +1354,6 @@ acquire_state_large = {
 	can_use = {
 		NOT = { tag = LCT }
 		NOT = { tag = GHO }
-		NOT = { tag = CHI }
-		this = { NOT = { tag = CHI } }
 		this = { NOT = { badboy = 1 } }
 		NOT = { 
 			OR = { 
@@ -1466,8 +1456,6 @@ acquire_state_huge = {
 	can_use = {
 		NOT = { tag = LCT }
 		NOT = { tag = GHO }
-		NOT = { tag = CHI }
-		this = { NOT = { tag = CHI } }
 		this = { NOT = { badboy = 1 } }
 		NOT = { 
 			OR = { 
@@ -1571,8 +1559,6 @@ place_in_the_sun_tiny = {
 	can_use = {
 		NOT = { tag = LCT }
 		NOT = { tag = GHO }
-		NOT = { tag = CHI }
-		this = { NOT = { tag = CHI } }
 		this = { NOT = { badboy = 1 } }
 		NOT = { 
 			OR = { 
@@ -1653,8 +1639,6 @@ place_in_the_sun_small = {
 	can_use = {
 		NOT = { tag = LCT }
 		NOT = { tag = GHO }
-		NOT = { tag = CHI }
-		this = { NOT = { tag = CHI } }
 		this = { NOT = { badboy = 1 } }
 		NOT = { 
 			OR = { 
@@ -1734,8 +1718,6 @@ place_in_the_sun_medium = {
 	can_use = {
 		NOT = { tag = LCT }
 		NOT = { tag = GHO }
-		NOT = { tag = CHI }
-		this = { NOT = { tag = CHI } }
 		this = { NOT = { badboy = 1 } }
 		NOT = { 
 			OR = { 
@@ -1815,8 +1797,6 @@ place_in_the_sun_large = {
 	can_use = {
 		NOT = { tag = LCT }
 		NOT = { tag = GHO }
-		NOT = { tag = CHI }
-		this = { NOT = { tag = CHI } }
 		this = { NOT = { badboy = 1 } }
 		NOT = { 
 			OR = { 
@@ -1896,8 +1876,6 @@ place_in_the_sun_huge = {
 	can_use = {
 		NOT = { tag = LCT }
 		NOT = { tag = GHO }
-		NOT = { tag = CHI }
-		this = { NOT = { tag = CHI } }
 		this = { NOT = { badboy = 1 } }
 		NOT = { 
 			OR = { 
@@ -2911,7 +2889,6 @@ become_independent = {
 		NOT = { tag = LCT }
 		NOT = { tag = GHO }
 		is_our_vassal = THIS
-		has_recently_lost_war = no
 	}
 	
 	# THIS - us
@@ -3031,8 +3008,6 @@ demand_concession_casus_belli_tiny = {
 	can_use = {
 		NOT = { tag = LCT }
 		NOT = { tag = GHO }
-		NOT = { tag = CHI }
-		this = { NOT = { tag = CHI } }
 		this = { NOT = { badboy = 1 } }
 		NOT = { 
 			OR = { 
@@ -3107,8 +3082,6 @@ demand_concession_casus_belli_small = {
 	can_use = {
 		NOT = { tag = LCT }
 		NOT = { tag = GHO }
-		NOT = { tag = CHI }
-		this = { NOT = { tag = CHI } }
 		this = { NOT = { badboy = 1 } }
 		NOT = { 
 			OR = { 
@@ -3183,8 +3156,6 @@ demand_concession_casus_belli_medium = {
 	can_use = {
 		NOT = { tag = LCT }
 		NOT = { tag = GHO }
-		NOT = { tag = CHI }
-		this = { NOT = { tag = CHI } }
 		this = { NOT = { badboy = 1 } }
 		NOT = { 
 			OR = { 
@@ -3259,8 +3230,6 @@ demand_concession_casus_belli_large = {
 	can_use = {
 		NOT = { tag = LCT }
 		NOT = { tag = GHO }
-		NOT = { tag = CHI }
-		this = { NOT = { tag = CHI } }
 		this = { NOT = { badboy = 1 } }
 		NOT = { 
 			OR = { 
@@ -3335,8 +3304,6 @@ demand_concession_casus_belli_huge = {
 	can_use = {
 		NOT = { tag = LCT }
 		NOT = { tag = GHO }
-		NOT = { tag = CHI }
-		this = { NOT = { tag = CHI } }
 		this = { NOT = { badboy = 1 } }
 		NOT = { 
 			OR = { 
@@ -3937,8 +3904,6 @@ conquest_low = {
 	can_use = {
 		NOT = { tag = LCT }
 		NOT = { tag = GHO }
-		NOT = { tag = CHI }
-		this = { NOT = { tag = CHI } }
 		this = { NOT = { badboy = 1 } }
 		NOT = {	total_pops = 400000 }
 		NOT = { 
@@ -4036,8 +4001,6 @@ take_capital = {
 	can_use = {
 		NOT = { tag = LCT }
 		NOT = { tag = GHO }
-		NOT = { tag = CHI }
-		this = { NOT = { tag = CHI } }
 		this = { NOT = { badboy = 1 } }
 		NOT = { 
 			OR = { 
