@@ -42,6 +42,8 @@ country_event = {
 			tag = GCO
 			tag = MEX
 			tag = SIA
+			tag = AHU
+			tag = ACR
 			has_leader = "John Cena"
 		}
 	}
