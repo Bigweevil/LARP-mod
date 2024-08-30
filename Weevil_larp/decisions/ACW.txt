@@ -12,7 +12,7 @@ political_decisions = {
 				year = 1865
 
 				AND = {
-					year = 1855
+					year = 1845
 					OR = {
 						NOT = { owns = 133} #Texas
 						NOT = { owns = 200} #Florida
@@ -21,7 +21,7 @@ political_decisions = {
 
 				AND = {
 					year = 1860
-					NOT = { owns = 2212 }
+					NOT = { owns = 2212 } #Cuba
 				}
 
 			}

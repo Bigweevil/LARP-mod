@@ -35,6 +35,8 @@ return_to_germany_title;Return to Germany;x
 return_to_germany_desc;Through outside intervention or the act of rebels, our government has been separated from the rest of Germany. We must immediately rejoin Germany.;;;;;;;;;;;;;;;;;;;;;;;;;x
 integrate_finland_title;Integrate the Grand Duchy of Finland;x
 integrate_finland_desc;Founded in 1809, the Grand Duchy of Finland was an autonomous region created after the annexation of the region in the Finnish War. Over the past few decades, the region has been a thorn in side, serving as an example of reform and cultural independence. We must revoke Finland's autonomy and begin Russification.;;;;;;;;;;;;;;;;;;;;;;;;;x
+integrate_lombardy_title;Integrate the Duchy of Lombardy;x
+integrate_lombardy_desc;Created in 1815, the Duchy of Lombardy was created as a compromise between the pro-Italian French and the expansionist Austrian faction. Nominally independent, but a defacto Austrian vassal, we've achieved everything we've wanted in Italy while not rocking the boat. However, with the rise of nationialism in the Italian peninsula, we must protect our holdings by directly incorporating Lombardy into Austria proper.;;;;;;;;;;;;;;;;;;;;;;;;;x
 custom_national_focus;§GAdditionial National Focuses;;;;;;;;;;;;;;;;;;;;x,,,,,;;;;;;;;;;;;;;;;;;;;,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 custom_national_focus_desc;Unlocks additionial national focuses.;;;;;;;;;;;;;;;;;;;;x,,,,,;;;;;;;;;;;;;;;;;;;;,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 make_democratic;Install Democratic Government;;;;;;;;;;;x
